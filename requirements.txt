@@ -1,0 +1,7 @@
+numpy
+opencv-python
+djitellopy
+mediapipe
+cvzone
+imutils
+pygame
